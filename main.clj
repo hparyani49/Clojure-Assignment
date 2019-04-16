@@ -1,4 +1,4 @@
-(ns clojure.examples.hello
+(ns assignment.main
 	(:gen-class))
 
 (def res_count 10)
